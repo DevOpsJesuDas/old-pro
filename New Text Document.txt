@@ -1,0 +1,9 @@
+git add .
+git commity -m 
+git config --global user.name
+git config --global user.email
+git push
+git merge
+git rebase
+git revert
+git branch
